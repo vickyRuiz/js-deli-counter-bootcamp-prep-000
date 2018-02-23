@@ -1,3 +1,3 @@
-function takeANumber(line, name) {
+function takeANumber(katzDeliLine, name) {
   line.push(name);
 }
