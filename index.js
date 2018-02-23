@@ -21,4 +21,5 @@ function currentLine(katzDeliLine) {
       lineDescription+= (i+1) + ". " + katzDeliLine[i];
     }
   }
+  return lineDescription;
 }
