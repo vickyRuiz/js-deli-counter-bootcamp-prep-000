@@ -10,4 +10,6 @@ function nowServing(katzDeliLine) {
     return katzDeliLine.shift();
   }
 }
-function currentLine() {}
+function currentLine() {
+  
+}
