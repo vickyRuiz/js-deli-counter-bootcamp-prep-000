@@ -17,7 +17,7 @@ function currentLine(katzDeliLine) {
   } else {
     lineDescription +=": ";
     for (var i = 0; i < katzDeliLine.length; i++) {
-      
+         
     }
   }
 }
